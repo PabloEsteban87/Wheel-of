@@ -173,10 +173,10 @@ body main .iconos img {
   align-items: center;
 }
 
-body {
+/* body {
   background-image: url(../img/fondo.jpg);
   background-repeat: no-repeat;
-}
+} */
 body header .logo {
   display: flex;
 }

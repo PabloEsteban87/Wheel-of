@@ -46,19 +46,7 @@ for (let numero =0; numero<=28; numero++){
     }
 }
 
-/* function animacionesJavascript(carta1){
-    const animacion = carta1.animate([
-        {transform: "scale(0.2)"},
-        {transform: "scale(1.3)"},
-        {transform: "scale(1)"}
-    ],{
-        easing: "linear",
-        iterations: 1,
-        duration: 200
-    });
-    return animacion.finished;
-    
-} */
+
 
 function recorrerAlumnos(alumnos, carta1){
     for(let i= 0; i<alumnos.length; i++){
@@ -70,8 +58,6 @@ function recorrerAlumnos(alumnos, carta1){
 
 function director(carta1, alumnos){
     for(let i= 0; i<=alumnos.length; i++){
-        let numero = numeroAleatorio();
-        let numeroint = parseInt(numero);
       if(carta1[i].innerHTML != "Gryffindor" && carta1[i].innerHTML != "Ravenclaw" && carta1[i].innerHTML != "Hufflepuff" && carta1[i].innerHTML != "Slytherin"){
         carta1[i].animate([
             {transform: "scale(0.2)"},
@@ -187,7 +173,6 @@ function ejecucion(){
     
     
     const carta1 = seleccionarCartas();
-    let numero = numeroAleatorio();
     let numero2 = numeroAleatoriaCasas();
     recorrerAlumnos(alumnos, carta1);
     cartasGryffindor(carta1, alumnos, numero2);
