@@ -5,6 +5,7 @@ body {
 body main {
   display: grid;
 }
+
 body main .contenedor-cartas {
   display: grid;
   grid-template-columns: repeat(7, 10%);
