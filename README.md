@@ -14,3 +14,11 @@ Tercer proyecto para entregar
 ![iPhone SE - 2](https://github.com/PabloEsteban87/Wheel-of/assets/133370570/d2bbea89-eaae-48d6-9da2-e34c76a8cd8d)
 
 ![iPhone SE - 4](https://github.com/PabloEsteban87/Wheel-of/assets/133370570/62105156-82b8-4b43-b6be-3d17d2cb69e0)
+
+# Autores
+<ul>
+<li>Pablo Esteban https://github.com/PabloEsteban87</li>
+<li>Ana Rodríguez</li>
+<li>Laura María Madrigal  </li>
+<li>Dulce Ulgar</li>
+<li>Iván Rullo </li></ul>
