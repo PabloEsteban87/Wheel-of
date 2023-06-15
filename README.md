@@ -22,3 +22,6 @@ Tercer proyecto para entregar
 <li>Laura María Madrigal  </li>
 <li>Dulce Ulgar</li>
 <li>Iván Rullo </li></ul>
+
+# Git pages
+https://pabloesteban87.github.io/Wheel-of/
